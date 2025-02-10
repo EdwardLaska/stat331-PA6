@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: "Julien Fiechter, Owen Gresko, Edward Laska, Ian Hodgson"
+author: "Owen, Ian, Julien, Edward"
 format: html
 editor: visual
 embed-resources: true
